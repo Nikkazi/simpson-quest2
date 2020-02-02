@@ -1,0 +1,10 @@
+.Navbar{
+    margin: 0%;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 30px;
+}
+.Navbar a{
+    color: white;
+    text-decoration: none;
+}
