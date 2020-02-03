@@ -1,0 +1,12 @@
+.QuoteCard{
+    display : flex;
+    margin-left: 35%;
+    border: 1px solid black;
+    padding: 10px;
+    width: 30%;  
+}
+
+.QuoteCard img{
+    display: flex;
+    height: 100px;
+}
